@@ -12,5 +12,8 @@
     "description": "",
     "devDependencies": {
         "nodemon": "^3.1.7"
+    },
+    "dependencies": {
+        "yargs": "^17.7.2"
     }
 }
